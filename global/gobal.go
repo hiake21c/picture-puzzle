@@ -1,6 +1,10 @@
 package global
 
 const (
-	ScreenWidth  = 320
-	ScreenHeight = 521
+	ScreenWidth    = 500
+	ScreenHeight   = 665
+	Title          = "Press any button"
+	TitleFontScale = 2
+	PuzzleColumns  = 3
+	PuzzleRows     = 4
 )
